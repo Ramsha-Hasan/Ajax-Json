@@ -1,0 +1,12 @@
+button{
+    background-color: blue;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+.hide-me {
+    visibility: hidden;
+    opacity: 0;
+    transform: scale(.75);
+  }
